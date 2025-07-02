@@ -211,4 +211,5 @@ Feedstock Maintainers
 =====================
 
 * [@ax3l](https://github.com/ax3l/)
+* [@mattkretz](https://github.com/mattkretz/)
 
